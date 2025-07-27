@@ -1,0 +1,2 @@
+# embeddings-visualizer
+Visualizing embeddings
